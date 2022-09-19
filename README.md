@@ -10,4 +10,4 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-![Application screenshot](docs/screenshot-1.png?raw=true)
+![Application screenshot](docs/screenshot.png?raw=true)
